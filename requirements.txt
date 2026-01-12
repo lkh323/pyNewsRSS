@@ -1,0 +1,6 @@
+streamlit
+feedparser
+google-generativeai
+PyGithub
+pandas
+python-dotenv
